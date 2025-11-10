@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules/
+.env
+
+# Build files
+frontend/dist/
+backend/node_modules/
+frontend/node_modules/
+
+# Logs
+*.log
+
+# macOS junk
+.DS_Store
